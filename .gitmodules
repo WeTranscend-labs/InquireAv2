@@ -1,0 +1,9 @@
+[submodule "FE-InquireAv2"]
+	path = FE-InquireAv2
+	url = https://github.com/WeTranscend-labs/FE-InquireAv2.git
+[submodule "BE-InquireAv2"]
+	path = BE-InquireAv2
+	url = https://github.com/WeTranscend-labs/BE-InquireAv2.git
+[submodule "SC-InquireAv2"]
+	path = SC-InquireAv2
+	url = https://github.com/WeTranscend-labs/SC-InquireAv2.git
