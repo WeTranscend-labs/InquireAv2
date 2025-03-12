@@ -32,7 +32,7 @@ Discover the standout features that make **InquireA** a next-generation Q&A plat
 
 The **InquireA** platform is live! Step into a world of decentralized knowledge-sharing where every contribution counts. Get ready for an experience that blends strategy, collaboration, and blockchain innovation:
 
-🔗 **Deployment Link**: [InquireA platform](https://inquire-a.vercel.app/) – Jump in now and start your journey!
+🔗 **Deployment Link**: [InquireA platform](https://inquirea.tech) – Jump in now and start your journey!
 
 Harness the power of the **Ancient8 Chain** as you ask, answer, and earn in a transparent ecosystem. Will you leave your mark as a top contributor? Your journey begins today – dive in and shape the future of Q&A!
 
